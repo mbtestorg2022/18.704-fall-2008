@@ -8,6 +8,7 @@ description: 'These files are the two source files and two compiled versions of 
   and that discusses the contents. '
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/18-704-seminar-in-algebra-and-number-theory-computational-commutative-algebra-and-algebraic-geometry-fall-2008/e141fc9e9109dc4cee3a7961c1a26a79_piiujm2.pdf
 file_type: application/pdf
+parent_uid: fee3b78c-47d5-bb0a-ca4c-895f418ec0ed
 resourcetype: Document
 title: piiujm2
 uid: e141fc9e-9109-dc4c-ee3a-7961c1a26a79
